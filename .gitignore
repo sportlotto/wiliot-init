@@ -1,0 +1,11 @@
+.terraform
+.idea
+.envrc
+*.retry
+*.token
+*.passwd
+*.swp
+*.backup
+kubernetes
+packer
+terraform/archive
